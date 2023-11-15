@@ -1,2 +1,2 @@
-# ncssm
+# NCSSM
  Summer Institute
